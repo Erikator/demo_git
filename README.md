@@ -9,4 +9,4 @@ Ceci est une modification en ligne
 
 Modification depuis la machine
 
-Encore un emodification sur le serveur
+Encore une modification sur le serveur
